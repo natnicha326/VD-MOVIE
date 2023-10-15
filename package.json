@@ -1,0 +1,28 @@
+{
+  "name": "movia-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@heroicons/vue": "^2.0.18",
+    "bootstrap": "^5.3.2",
+    "flowbite": "^1.8.1",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.0.2",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.0.0"
+  }
+}
